@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/weight", "destination": "/" },
+    { "source": "/money", "destination": "/" },
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
